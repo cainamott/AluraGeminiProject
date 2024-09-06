@@ -12,3 +12,4 @@ Este projeto web permite buscar álbuns musicais por título, descrição ou tag
 1. **Clone o repositório:**
    ```bash
    git clone [URL inválido removido]
+https://vercel.com/new/caina-mottas-projects/success?developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=alura-gemini-project-rd4g-8wogbzhuc-caina-mottas-projects.vercel.app&projectName=alura-gemini-project-rd4g&s=https%3A%2F%2Fgithub.com%2Fcainamott%2FAluraGeminiProject&gitOrgLimit=&hasTrialAvailable=1&totalProjects=1
